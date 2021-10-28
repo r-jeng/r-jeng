@@ -1,4 +1,3 @@
-### Hi there, I'm Robin Jeng! :star:
 ![Alt text](/intro-header.png?raw=true "intro-header")
 
 
