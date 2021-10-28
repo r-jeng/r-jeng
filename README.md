@@ -1,4 +1,4 @@
-![Alt text](/intro-header.png?raw=true "intro-header")
+![Alt text](/intro-header-readme.png?raw=true "intro-header")
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-jeng/) 
